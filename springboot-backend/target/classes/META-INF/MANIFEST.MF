@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 17
 Implementation-Title: springboot-backend
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SONY
+Implementation-Vendor-Id: net.javaguides
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://spring.io/projects/spring-boot/springboot-
+ backend
 Created-By: Maven Integration for Eclipse
 
