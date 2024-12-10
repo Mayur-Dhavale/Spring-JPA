@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
+Built-By: LENOVO
+Build-Jdk: 21.0.5
 Implementation-Title: springboot-backend
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: SONY
 Implementation-Vendor-Id: net.javaguides
-Build-Jdk: 1.8.0_144
-Implementation-URL: https://spring.io/projects/spring-boot/springboot-
- backend
+Implementation-URL: https://spring.io/projects/spring-boot/springboot-ba
+ ckend
 Created-By: Maven Integration for Eclipse
 

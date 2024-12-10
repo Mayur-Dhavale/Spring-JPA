@@ -25,7 +25,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 	}
 
 
-// API 1 save the employee
+    // API 1 save the employee
 	@Override
 	public Employee saveEmployee(Employee employee) {
 		
@@ -33,7 +33,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 	}
 
 
-//API 2 get all employee
+    //API 2 get all employee
 	@Override
 	public List<Employee> getAllEmployees() {
 		
